@@ -1,0 +1,4 @@
+Nama : Dwi Waluyo Putranto
+Umur : 26 Tahun
+Stack : Frontend
+Bahasa Pemrograman : HTML, CSS, Javascript, React
